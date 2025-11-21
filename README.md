@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Welcome
+# Welcome
 
 I am a computer science student.
