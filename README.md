@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 # Welcome
-
-I am a computer science student.
